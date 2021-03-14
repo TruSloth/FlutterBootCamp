@@ -15,5 +15,3 @@ const kTaskBoxMargin = EdgeInsets.symmetric(vertical: 2.5);
 const kSlidableActionExtentRatio = 0.25;
 const kTaskInputFieldMargin = EdgeInsets.all(16.0);
 const kAddIconSize = 50.0;
-
-const kAddTaskButtonMargin = EdgeInsets.fromLTRB(16.0, 0.0, 16.0, 16.0);

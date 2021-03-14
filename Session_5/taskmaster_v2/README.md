@@ -1,6 +1,6 @@
-# taskmaster_v2
+# taskmaster
 
-Task Master App V2.
+Task Manager Application
 
 ## Getting Started
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:taskmaster/screens/task_input_page.dart';
 import 'constants.dart';
-import 'screens/tasks_display_page.dart';
+import 'screens/task_display_page.dart';
+import 'screens/task_input_page.dart';
 
 void main() {
   runApp(
